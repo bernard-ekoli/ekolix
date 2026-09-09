@@ -76,7 +76,7 @@ export default function Page() {
         <div className="hero-visual">
           <div className="portrait-frame">
             <div className="portrait-scanlines" aria-hidden="true" />
-            <a className="portrait-link" href="https://example.com/developer-portfolio" target="_blank" rel="noreferrer" aria-label="Open the developer portfolio">
+            <a className="portrait-link" href="https://bernardekoli.vercel.app" target="_blank" rel="noreferrer" aria-label="Open the developer portfolio">
               <img src="/ekolix-mark.png" alt="EkoliX symbol" className="portrait-image" />
             </a>
             <div className="portrait-label">DEV/FOUNDER - <i>Bernard Ekoli</i> ONLINE</div>
